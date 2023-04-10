@@ -1,0 +1,5 @@
+﻿  MySound.cpp
+  Source.cpp
+C:\Temp\TextTools\TextTools\TextTools\Source.cpp(8,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Generating Code...
+  TextTools.vcxproj -> C:\Temp\TextTools\TextTools\Debug\TextTools.exe
